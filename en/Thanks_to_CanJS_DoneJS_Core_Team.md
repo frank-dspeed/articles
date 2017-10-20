@@ -22,5 +22,7 @@ It got a Nice encapsulating system.
 
 The Time has come now for Nils bundling all the new tech and leaving CanJS as the Legacy Compatible Style of Coding WebComponents
 They started working on load optimization and that is a layer that i don't want to take as in future this is solved diffrent.
-The CanJS Project needs to support many old Browsers thats why its still well for legacy Compatible stuff
+The CanJS Project needs to support many old Browsers thats why its still well for legacy Compatible stuff.
+
+But over time the Amount of pollyfill methods will grow and CanJS can be droped Complet. I expect that State to be Reached in the next 2 Years for people that really need to support old browsers.
 
